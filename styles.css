@@ -1,0 +1,25 @@
+body {
+    background-color: #EEEEFF;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.hidden {
+    display : none;
+}
+
+h1 {
+    font-family: 'Royal Acid';
+    font-size: 42px;
+}
+a:link { text-decoration: none; }
+
+a:visited { text-decoration: none; }
+
+a:hover { text-decoration: none; }
+
+a:active { text-decoration: none; }
+
+@font-face {
+    font-family: "Royal Acid";
+    src: url("Royalacid_o.ttf");
+}
